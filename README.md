@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
 ### Programming Languages 🌐
 
-| Python | Swift | Html & Css |
+- Python
+- Swift
+- Html & Css
+
  
 ### Tools 🛠️
 
