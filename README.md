@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Veer Chauhan]
+### Hi there 👋 I'm Veer Chauhan
 
 
 
@@ -36,8 +36,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages 🌐
 
-|
-|---|---|---|---|---|---|
+| Python | Swift | Html & Css |
  
 ### Tools 🛠️
 
@@ -46,7 +45,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Veer&show_icons=true&count_private=true)](https://github.com/Chauhan-Veer)
+[![Veer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Veer&show_icons=true&count_private=true)](https://github.com/Chauhan-Veer)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
