@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=Chauhan-Veer" alt="Chauhan-Veer" />
 
-<div>
- <p>
+<!-- <div> -->
+<!--  <p> -->
 - 🏫 I'm School student.
 - 💪 I’m currently learning Kotin.
 - 📍 I'm from Mumbai
 - 📫 Reach me by email: [Veer Chauhan](mailto:chauhanveer904@gmail.com)
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
-</div>
+<!-- I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications. -->
+<!-- </p> -->
+<!-- </div> -->
 
 ### Programming Languages 🌐
 
