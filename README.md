@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**Chauhan-Veer/Chauhan-Veer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
@@ -29,7 +13,7 @@ Here are some ideas to get you started:
 <!-- <div> -->
 <!--  <p> -->
 - 🏫 I'm School student.
-- 💪 I’m currently learning Kotin.
+- 💪 I’m currently learning Kotlin.
 - 📍 I'm from Mumbai
 - 📫 Reach me by email: [Veer Chauhan](mailto:chauhanveer904@gmail.com)
 
