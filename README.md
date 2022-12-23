@@ -12,7 +12,7 @@
 
 <!-- <div> -->
 <!--  <p> -->
-- 🏫 I'm School student.
+- 🏫 I'm Diploma student.
 - 💪 I’m currently learning Kotlin.
 - 📍 I'm from Mumbai
 - 📫 Reach me by email: [Veer Chauhan](mailto:chauhanveer904@gmail.com)
@@ -33,7 +33,7 @@
 - MySQL
 - Git
 - VS Code
-- Ubuntu
+- Linux
 
 
 ### Github Stats
